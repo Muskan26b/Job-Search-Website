@@ -1,3 +1,8 @@
+## 🎨 UI Design & Prototype  
+View my full UI design and prototype in Figma:  
+[Click Here]https://www.figma.com/proto/49jRM9H0tkUB6wnN3V17Xf/Job-Search-Website?node-id=0-1&t=bU6ENel3G2deKOUZ-1
+
+
 # Job-Search-Website
 # Job Finder App - UI/UX Design
 
